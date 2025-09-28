@@ -1,37 +1,103 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kumar</h1>
-<h3 align="center">A passionate about Software Developer</h3>
+<!-- Polished GitHub Profile README for Dhruv Kumar -->
+<!-- Tip: Replace any placeholders marked with 🔧 to your exact handles/links -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkum7&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvkum7" /> </p>
+<!-- Header -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Dhruv Kumar</h1>
+<h3 align="center">Full-stack Developer • GATE CS Aspirant • Cloud & AI Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkum7" alt="dhruvkum7" /></a> </p>
-
-- 🌱 I’m currently learning **Advanced DSA for GATE (graphs, DP, number theory) - MERN stack best practices (Node 22, Express, MongoDB, React/Vite + Tailwind) - Cloud & DevOps (AWS/GCP, Docker, CI/CD with GitHub Actions) - Salesforce Agentforce & Data Cloud basics - Computer Vision basics (OpenCV + Python)**
-
-- 💬 Ask me about **Core Primary languages (with versions): Secondary languages: Paradigms you like (OOP, FP, DDD, TDD, etc.): Frontend 4) Frameworks/libs (React, Next.js, Vue, Tailwind, Shadcn, Redux, etc.): 5) Build tools (Vite, Webpack, Babel): Backend 6) Runtimes & frameworks (Node/Express/Nest, Java/Spring, Python/FastAPI/Django, Go/Fiber, etc.): 7) Auth & APIs (JWT, OAuth, GraphQL, tRPC, REST): Databases & Storage 8) SQL (Postgres, MySQL, MSSQL) + ORM (Prisma/TypeORM/Sequelize): 9) NoSQL (MongoDB, Redis, Elasticsearch, Firebase): 10) Message/stream (Kafka, RabbitMQ, SQS): Cloud & DevOps 11) Cloud (AWS/GCP/Azure/OCI/Render/Vercel/Netlify/Firebase): 12) CI/CD (GitHub Actions, Jenkins, CircleCI): 13) Containers/Infra (Docker, Kubernetes, Terraform): AI/ML 14) Frameworks (PyTorch, TensorFlow, scikit-learn), LLM tooling (LangChain, OpenAI API, RAG): Mobile & Desktop 15) React Native/Flutter/Android/iOS/Electron: Testing & Quality 16) Testing (Jest, Vitest, JUnit, PyTest, Playwright/Cypress): 17) Lint/format (ESLint, Prettier, Black): Data/Analytics 18) Tools (Pandas, NumPy, Spark, Airflow, DBT): Tools & Workflow 19) Editors (VS Code, IntelliJ), package managers (npm/yarn/pnpm), task runners: 20) Favorite design tools (Figma, Canva):**
-
-- 📫 How to reach me **dhruvkumar04553@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_dEyNSl3cSt0QG3Km0NzJpn2SizIhG2-/view?usp=drive_link](https://drive.google.com/file/d/1_dEyNSl3cSt0QG3Km0NzJpn2SizIhG2-/view?usp=drive_link)
-
-- ⚡ Fun fact **I use Git as a time machine with better branching.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://fb.com/dhruv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruv_v_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_v_k" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhruv kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhruv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruv kumar" height="30" width="40" /></a>
-<a href="https://discord.gg/Dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dhruv" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dhruvkum7"><img src="https://komarev.com/ghpvc/?username=dhruvkum7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/></a>
+  <a href="https://github.com/dhruvkum7?tab=followers"><img src="https://img.shields.io/github/followers/dhruvkum7?label=Followers&style=flat" alt="followers"/></a>
+  <a href="https://github.com/dhruvkum7"><img src="https://img.shields.io/github/stars/dhruvkum7?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=600&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+production-ready+web+apps;MERN+%7C+Cloud+%7C+CI%2FCD+%7C+AI%2FML;Learning+in+public+%26+shipping+fast" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkum7&show_icons=true&locale=en&layout=compact" alt="dhruvkum7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvkum7&show_icons=true&locale=en" alt="dhruvkum7" /></p>
+### 🚀 About Me
+- 🌱 Currently learning: **GATE-level DSA (Graphs/DP/NT), MERN (Node 22, Express, MongoDB, React/Vite+Tailwind), Cloud & DevOps (AWS/GCP, Docker, GitHub Actions), Salesforce Agentforce & Data Cloud, OpenCV+Python**
+- 🛠️ I love building: **agentic apps, recipe/vision tools, clean REST/Graph APIs, and CI/CD pipelines**
+- 💬 Ask me about: **JavaScript/TypeScript, Node/Express, React + Tailwind, MongoDB, OAuth/JWT, Git/GitHub Actions**
+- 📫 Reach me: **dhruvkumar04553@gmail.com**
+- 📄 Resume: **[View PDF](https://drive.google.com/file/d/1_dEyNSl3cSt0QG3Km0NzJpn2SizIhG2-/view?usp=drive_link)**
+- ⚡ Fun fact: **I use Git as a time machine—with better branching.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkum7&" alt="dhruvkum7" /></p>
+---
+
+### 🌐 Connect
+<p>
+  <!-- 🔧 Replace links with your exact handles (no spaces) -->
+  <a href="https://www.linkedin.com/in/dhruvkum7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
+  <a href="https://instagram.com/dhruv_v_k" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
+  <a href="https://leetcode.com/u/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" height="22"/></a>
+  <a href="https://www.codechef.com/users/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" height="22"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" height="22"/></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=react,next,redux,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/DSA-Graphs%2FDP%2FNT-blue" />
+  <img src="https://img.shields.io/badge/MERN-React%2FNode%2FExpress%2FMongo-green" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%2FGCP-orange" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions-yellow" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20%7C%20Data%20Cloud-13b5ec" />
+  <img src="https://img.shields.io/badge/CV-OpenCV%20%7C%20Python-purple" />
+</p>
+
+---
+
+### 📦 Featured Projects
+- 🍳 **Smart Recipe Generator** – MERN + Vision + Auth + Deployed  
+- 🔎 **License Plate Detection** – OpenCV + EasyOCR (Python)  
+- 🧠 **AI Interviewer Platform** – WebRTC, RAG, scoring pipelines  
+> 👉 Pin your top repos for quick access!
+
+---
+
+### 🏆 Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkum7&theme=algolia&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
+</p>
+
+### 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvkum7&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkum7&hide_border=true&theme=tokyonight" alt="streak"/>
+</p>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkum7&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+</p>
+
+---
+
+### ☕ Support
+If you like my work, consider ⭐ starring repositories and sharing feedback via issues & PRs!
+
+<!-- Quick Fixes You Needed:
+1) Removed broken "Ask me about" mega-line and replaced with clean bullets.
+2) Cleaned social links (spaces break URLs). Use exact handles where marked.
+3) Unified visual theme (Tokyonight) and no-border cards for a sleeker look.
+4) Grouped skills with skillicons.dev for a compact grid.
+5) Added typing banner + badges for a modern profile vibe.
+-->
