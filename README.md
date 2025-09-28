@@ -32,7 +32,7 @@
 ### 🌐 Connect
 <p>
   <!-- 🔧 Replace links with your exact handles (no spaces) -->
-  <a href="https://www.linkedin.com/in/dhruvkum7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
+  <a href="www.linkedin.com/in/dhruv-kumar-dk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
   <a href="https://instagram.com/dhruv_v_k" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
   <a href="https://leetcode.com/u/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" height="22"/></a>
   <a href="https://www.codechef.com/users/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" height="22"/></a>
