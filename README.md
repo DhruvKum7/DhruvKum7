@@ -1,103 +1,131 @@
-<!-- Polished GitHub Profile README for Dhruv Kumar -->
-<!-- Tip: Replace any placeholders marked with 🔧 to your exact handles/links -->
+<!-- Recruiter-Optimized GitHub Profile README with Beautiful Banner/Background -->
 
-<!-- Header -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>, I'm Dhruv Kumar</h1>
-<h3 align="center">Full-stack Developer • GATE CS Aspirant • Cloud & AI Enthusiast</h3>
+<!-- HERO BANNER (Light/Dark auto) -->
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=260&section=header&text=Dhruv%20Kumar&fontColor=E5E7EB&fontSize=70&fontAlign=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20AI%20%E2%80%A2%20GATE%20CS%202026&descAlign=50&descAlignY=70&descSize=20" />
+    <!-- Light mode -->
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f0f9ff,100:eff6ff&height=260&section=header&text=Dhruv%20Kumar&fontColor=0f172a&fontSize=70&fontAlign=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20AI%20%E2%80%A2%20GATE%20CS%202026&descAlign=50&descAlignY=70&descSize=20" />
+  </picture>
+</p>
+
+<!-- OPTIONAL: Wave separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:111827,100:0f172a&section=footer&reversal=true" />
+</p>
+
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Dhruv Kumar</h1>
+<h3 align="center">Full-Stack Developer · Cloud & AI · GATE CS Aspirant (2026)</h3>
 
 <p align="center">
-  <a href="https://github.com/dhruvkum7"><img src="https://komarev.com/ghpvc/?username=dhruvkum7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/></a>
-  <a href="https://github.com/dhruvkum7?tab=followers"><img src="https://img.shields.io/github/followers/dhruvkum7?label=Followers&style=flat" alt="followers"/></a>
-  <a href="https://github.com/dhruvkum7"><img src="https://img.shields.io/github/stars/dhruvkum7?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/></a>
+  <a href="https://github.com/dhruvkum7"><img src="https://komarev.com/ghpvc/?username=dhruvkum7&label=Profile%20Views&color=0e75b6&style=flat" /></a>
+  <a href="https://github.com/dhruvkum7?tab=followers"><img src="https://img.shields.io/github/followers/dhruvkum7?style=flat&logo=github" /></a>
+  <a href="mailto:dhruvkumar04553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-informational" /></a>
+  <a href="https://www.linkedin.com/in/dhruv-kumar-dk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://drive.google.com/file/d/1_dEyNSl3cSt0QG3Km0NzJpn2SizIhG2-/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20PDF-success" /></a>
 </p>
 
+<!-- Typing line -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=600&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+production-ready+web+apps;MERN+%7C+Cloud+%7C+CI%2FCD+%7C+AI%2FML;Learning+in+public+%26+shipping+fast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=I+build+production-ready+MERN+apps%2C+ship+fast%2C+and+own+DevOps;TypeScript%2FReact+%7C+Node%2FExpress+%7C+MongoDB%2FPostgres;AWS%2FGCP+%7C+Docker+%7C+GitHub+Actions+%7C+OpenCV%2FAI" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning: **GATE-level DSA (Graphs/DP/NT), MERN (Node 22, Express, MongoDB, React/Vite+Tailwind), Cloud & DevOps (AWS/GCP, Docker, GitHub Actions), Salesforce Agentforce & Data Cloud, OpenCV+Python**
-- 🛠️ I love building: **agentic apps, recipe/vision tools, clean REST/Graph APIs, and CI/CD pipelines**
-- 💬 Ask me about: **JavaScript/TypeScript, Node/Express, React + Tailwind, MongoDB, OAuth/JWT, Git/GitHub Actions**
-- 📫 Reach me: **dhruvkumar04553@gmail.com**
-- 📄 Resume: **[View PDF](https://drive.google.com/file/d/1_dEyNSl3cSt0QG3Km0NzJpn2SizIhG2-/view?usp=drive_link)**
-- ⚡ Fun fact: **I use Git as a time machine—with better branching.**
+## 💼 What I bring to your team
+- **Product mindset:** turn ambiguous problems into measurable outcomes.
+- **End-to-end ownership:** UI → API → DB → CI/CD → cloud → monitoring.
+- **Fast feedback loops:** preview deployments + automated checks with **GitHub Actions**.
+- **Pragmatic AI:** use LLM/vision only where it drives clear ROI.
+- **Reliable delivery:** small, well-documented, testable increments.
 
 ---
 
-### 🌐 Connect
+## 🔧 Tech I use in production
 <p>
-  <!-- 🔧 Replace links with your exact handles (no spaces) -->
-  <a href="www.linkedin.com/in/dhruv-kumar-dk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>
-  <a href="https://instagram.com/dhruv_v_k" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
-  <a href="https://leetcode.com/u/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" height="22"/></a>
-  <a href="https://www.codechef.com/users/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" height="22"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/dhruvkum7" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" height="22"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,redux,vite,tailwind,nodejs,express,postgres,mongodb,redis,aws,gcp,docker,githubactions,git,opencv,python,tensorflow,pytorch,jest,vitest,playwright" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Selected Projects (impact-first)
+**🍳 Smart Recipe Generator** · MERN + Vision + Auth  
+- Image → recipe suggestions w/ pantry constraints & nutrition hints.  
+- **Impact:** session time ↑, repeat users ↑ (add numbers).  
+- 🔗 Live: <YOUR_LINK> · Repo: <YOUR_REPO>
+
+**🧠 AI Interviewer Platform** · WebRTC · RAG · Scoring  
+- Real-time interview + recording, rubric scoring, and feedback.  
+- **Impact:** manual eval time ↓, candidate NPS ↑ (add numbers).  
+- 🔗 Live: <YOUR_LINK> · Repo: <YOUR_REPO>
+
+**🔎 License Plate Detection** · OpenCV + EasyOCR (Python)  
+- Detection → OCR → anonymization; export CSV/JSON.  
+- **Impact:** throughput ↑; error rate ↓ (add numbers).  
+- 🔗 Repo: <YOUR_REPO>
+
+> Pin these repos. Add demo GIFs, `/docs` (architecture, API), and one-click deploy buttons.
+
+---
+
+## 🧪 Quality, DX & Ops
+- **Testing:** Jest/Vitest + Playwright (critical paths, API contracts).
+- **CI/CD:** GitHub Actions (lint, type-check, test, build, preview, deploy).
+- **Observability:** health checks/logs; add Sentry/Grafana if applicable.
+- **Security:** env-var hygiene, JWT/OAuth, least-privilege keys.
+
+---
+
+## 🌱 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
-  <img src="https://skillicons.dev/icons?i=react,next,redux,vite,tailwind" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify" />
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
-  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright" />
+  <img src="https://img.shields.io/badge/DSA-Graphs%2FDP%2FNumber%20Theory-1f6feb" />
+  <img src="https://img.shields.io/badge/MERN-Node%2022%20%7C%20Express%20%7C%20React%2FVite%20%7C%20Mongo-16a34a" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%2FGCP-f59e0b" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions-ca8a04" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20%7C%20Data%20Cloud-0ea5e9" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20Python-8b5cf6" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
+## 🏆 Highlights
+- **Community:** (talks/hackathons/ambassador roles with links)
+- **Certifications:** Salesforce Agentforce/Data Cloud, AWS/GCP fundamentals
+- **Open Source:** (PRs/issues merged)
+- **Competitive:** (LeetCode/CodeChef if strong & recent)
+
+---
+
+## 📊 GitHub at a glance
 <p>
-  <img src="https://img.shields.io/badge/DSA-Graphs%2FDP%2FNT-blue" />
-  <img src="https://img.shields.io/badge/MERN-React%2FNode%2FExpress%2FMongo-green" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%2FGCP-orange" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions-yellow" />
-  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20%7C%20Data%20Cloud-13b5ec" />
-  <img src="https://img.shields.io/badge/CV-OpenCV%20%7C%20Python-purple" />
-</p>
-
----
-
-### 📦 Featured Projects
-- 🍳 **Smart Recipe Generator** – MERN + Vision + Auth + Deployed  
-- 🔎 **License Plate Detection** – OpenCV + EasyOCR (Python)  
-- 🧠 **AI Interviewer Platform** – WebRTC, RAG, scoring pipelines  
-> 👉 Pin your top repos for quick access!
-
----
-
-### 🏆 Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkum7&theme=algolia&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
-</p>
-
-### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvkum7&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkum7&hide_border=true&theme=tokyonight" alt="streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvkum7&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkum7&hide_border=true&theme=tokyonight" />
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkum7&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkum7&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-### ☕ Support
-If you like my work, consider ⭐ starring repositories and sharing feedback via issues & PRs!
+## 🤝 Let’s build something great
+- 📧 **Email:** <a href="mailto:dhruvkumar04553@gmail.com">dhruvkumar04553@gmail.com</a>  
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/dhruv-kumar-dk/">dhruv-kumar-dk</a>  
+- 🗓️ **Availability:** Open to **SDE / Full-Stack Intern/Grad roles (2025–2026)**
 
-<!-- Quick Fixes You Needed:
-1) Removed broken "Ask me about" mega-line and replaced with clean bullets.
-2) Cleaned social links (spaces break URLs). Use exact handles where marked.
-3) Unified visual theme (Tokyonight) and no-border cards for a sleeker look.
-4) Grouped skills with skillicons.dev for a compact grid.
-5) Added typing banner + badges for a modern profile vibe.
+> **Hiring managers:** Check my pinned repos (docs, tests, CI), commit history (clear messages), and PRs (small, reviewable). I optimize for **impact, clarity, and maintainability**.
+
+---
+
+### Notes for Recruiters (TL;DR)
+- **Stack:** TypeScript · React/Tailwind · Node/Express · MongoDB/Postgres · Docker · GitHub Actions · AWS/GCP  
+- **Strengths:** Ownership, clean APIs, pragmatic AI, CI/CD, documentation  
+- **Culture add:** Fast iteration, thoughtful trade-offs, collaborative communication  
+
+<!--
+How to use your own background:
+1) Go to your profile ➜ "Edit profile" ➜ "Add a header image" (best: 1500×500).
+2) Or upload a banner image to a repo issue, copy the CDN URL, and replace the top <picture> src with your URL.
+3) You can also change the capsule-render gradients with ?color=0:HEX,100:HEX and themes.
 -->
