@@ -54,17 +54,16 @@
 **🍳 Smart Recipe Generator** · MERN + Vision + Auth  
 - Image → recipe suggestions w/ pantry constraints & nutrition hints.  
 - **Impact:** session time ↑, repeat users ↑ (add numbers).  
-- 🔗 Live: <YOUR_LINK> · Repo: <YOUR_REPO>
+
 
 **🧠 AI Interviewer Platform** · WebRTC · RAG · Scoring  
 - Real-time interview + recording, rubric scoring, and feedback.  
 - **Impact:** manual eval time ↓, candidate NPS ↑ (add numbers).  
-- 🔗 Live: <YOUR_LINK> · Repo: <YOUR_REPO>
+
 
 **🔎 License Plate Detection** · OpenCV + EasyOCR (Python)  
 - Detection → OCR → anonymization; export CSV/JSON.  
-- **Impact:** throughput ↑; error rate ↓ (add numbers).  
-- 🔗 Repo: <YOUR_REPO>
+
 
 > Pin these repos. Add demo GIFs, `/docs` (architecture, API), and one-click deploy buttons.
 
