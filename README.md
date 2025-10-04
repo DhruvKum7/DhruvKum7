@@ -7,7 +7,7 @@
     <!-- Dark -->
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0b1220,100:0f172a&fontColor=E5E7EB&text=Dhruv%20Kumar&fontSize=72&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AI%20%7C%20GATE%20CS%202026&descSize=18&descAlignY=65&animation=fadeIn" />
     <!-- Light -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:f0f9ff,100:eff6ff&fontColor=0f172a&text=Dhruv%20Kumar&fontSize=72&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AI%20%7C%20GATE%20CS%202026&descSize=18&descAlignY=65&animation=fadeIn" />
+    <img src=""D:\2211453-Photoroom.jpeg"" />
   </picture>
 </p>
 
