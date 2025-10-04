@@ -14,7 +14,7 @@
 <!-- ====== QUICK GLANCE / SOCIALS ====== -->
 <p align="center">
   <a href="https://github.com/dhruvkum7"><img src="https://komarev.com/ghpvc/?username=dhruvkum7&label=Profile%20Views&color=0ea5b6" alt="views"/></a>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=dhruvkum7&label=VIEWS&color=0&icon=0&pretty=true" alt="counter"/></a>
+  
   <a href="https://github.com/dhruvkum7?tab=followers"><img src="https://img.shields.io/github/followers/dhruvkum7?style=flat&logo=github" alt="followers"/></a>
   <a href="mailto:dhruvkumar04553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/dhruv-kumar-dk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
